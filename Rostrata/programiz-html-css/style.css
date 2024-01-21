@@ -1,0 +1,93 @@
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #00008B;
+  color: white;
+  font-size: 20px;
+  margin: 20px;
+
+}
+
+.image-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+img {
+    width: 50%; 
+    max-width: 500px; 
+    height: 420px; 
+    border: 5px solid #ddd; 
+    border-radius: 5px; 
+  	shadow: ;
+  	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+body {
+  background-color: #f0f0f0;
+}
+
+
+.title {
+  color:#00008B;   
+  text-align: center;
+  margin: 50px;
+  font-family: Arial, sans-serif;
+  font-weight:bold;
+}
+
+.bold-text{
+  font-weight: bold;
+}
+
+.content {
+  margin: 60px;
+  text-align: justify;
+  padding: 20px;
+  text-indent: 50px;
+}
+
+h3 {
+  color:#00008B;
+  text-indent: 50px; 
+  text-align: center;
+  font-size: 25px;
+}
+
+h2 {
+  color:#00008B;
+  text-indent: 50px; 
+  font-size: 20px;
+}
+
+p {
+  margin-left: 10%;
+  margin-right: 5%;
+  text-indent: 50px; 
+}
+
+.more {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+footer {
+    
+    color: #333;
+    text-align: center;
+    padding: 10px;
+}
+
+.author {
+    font-size: 1em;
+    letter-spacing:0.2em;
+    margin: 0;
+}
+
+.course {
+    font-size: 0.8em;
+    margin: 0;
+}
+
